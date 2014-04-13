@@ -1,3 +1,3 @@
 AvgHomePrices
 =============
-just practice
+small demo
